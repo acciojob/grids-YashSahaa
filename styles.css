@@ -12,21 +12,21 @@
 .row{
 	border:5px solid rgb(255, 188, 188);
 }
-.ele1{
+.r1c1{
 	background-color:teal;
 }
-.ele2{
+.r1c2{
 	background-color:thistle;
 }
-.ele3{
+.r2c1{
 	background-color:tomato;
 }
-.ele4{
+.r2c2{
 	background-color:turquoise;
 }
-.ele5{
+.r3c1{
 	background-color:violet;
 }
-.ele6{
+.r3c2{
 	background-color:yellowgreen;
 }
